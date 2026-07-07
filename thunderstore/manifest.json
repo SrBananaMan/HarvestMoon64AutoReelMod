@@ -1,0 +1,7 @@
+{
+    "name": "Auto_Reel",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/SrBananaMan/HarvestMoon64AutoReelMod",
+    "description": "Allows you to automatically reel in fish without releasing B.",
+    "dependencies": []
+}
